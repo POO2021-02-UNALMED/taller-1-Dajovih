@@ -1,4 +1,2 @@
-José David Cardona Soto
-19 años
-Con esta materia espero aprender bien el paradigma de programación orientada a objetos ya que por lo poco que he investigado, la creación de videojuegos hace uso de 
-este paradigma y pues es lo en lo que me gustaría desempeñarme en el futuro
+Ahora si pude hacer commit y visualizar la carpeta en GitHub Web. Esto es porque ya contiene un archivo llamado respuesta.txt. (Las carpetas que no contienen nada a dentro
+no se les puede hacer commit ni aparecen en nuestro repositorio)
