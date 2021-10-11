@@ -1,2 +1,10 @@
 Ahora si pude hacer commit y visualizar la carpeta en GitHub Web. Esto es porque ya contiene un archivo llamado respuesta.txt. (Las carpetas que no contienen nada a dentro
 no se les puede hacer commit ni aparecen en nuestro repositorio)
+
+José David Cardona Soto
+19 años
+De esta materia espero aprender bien la progrmación orientada objetos ya que me quiero dedicar a la creación y programación de videojuegos y hasta donde tengo entendido
+esta se realiza en base a este paradigma
+
+Hay que tener cuidado porque me puede generar este tipo de conflictos a la hora de hacer commits
+
