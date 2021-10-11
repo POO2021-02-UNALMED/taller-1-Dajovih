@@ -1,2 +1,0 @@
-Ahora si pude hacer commit y visualizar la carpeta en GitHub Web. Esto es porque ya contiene un archivo llamado respuesta.txt. (Las carpetas que no contienen nada a dentro
-no se les puede hacer commit ni aparecen en nuestro repositorio)
